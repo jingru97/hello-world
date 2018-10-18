@@ -1,5 +1,5 @@
 # Compilation of Internship Codes
-<in progress for writing this README file properly and organising this github repository>
+(in progress for writing this README file properly and organising this github repository)
 
 Scripts done:
 1) C: ring buffer using linked list
